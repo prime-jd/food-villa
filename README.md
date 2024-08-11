@@ -1,5 +1,5 @@
  
-- I made [🚀 foodvilla-apps 😍](https://foodvilla-apps.netlify.app//) from scratch using React.js and Parcel.js, which is the part of this course.
+- I made [🚀 foodvilla-apps 😍](https://food-villa-rust.vercel.app/) from scratch using React.js and Parcel.js, which is the part of this course.
 
 
 
