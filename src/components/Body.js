@@ -28,7 +28,7 @@ const Body = () => {
 
       const json = await data.json();
 
-
+      //  https://localhost:5000/api/proxy/swiggy/restaurants/list/v5?lat=28.4794403&lng=77.5253962&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING
 
       // was showing an error of data fatching because sometime data coming from cards[1] sometime cards[2] and different on other times so me make a function and check which value of i gives data in cards[i]
       async function checkJsonData(jsonData) {
